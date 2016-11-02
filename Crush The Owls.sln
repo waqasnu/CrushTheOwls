@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6E5621DD-0787-4415-2DB0-CA01E10AC29E}") = "Crush The Owls", "Assembly-CSharp.csproj", "{58166688-224A-076C-6D91-2EB809E1984D}"
+EndProject
+Project("{6E5621DD-0787-4415-2DB0-CA01E10AC29E}") = "Crush The Owls", "Assembly-CSharp-Editor.csproj", "{77E4D406-3171-A4E3-9B3F-60226AB0F02A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58166688-224A-076C-6D91-2EB809E1984D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58166688-224A-076C-6D91-2EB809E1984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58166688-224A-076C-6D91-2EB809E1984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58166688-224A-076C-6D91-2EB809E1984D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E4D406-3171-A4E3-9B3F-60226AB0F02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E4D406-3171-A4E3-9B3F-60226AB0F02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E4D406-3171-A4E3-9B3F-60226AB0F02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E4D406-3171-A4E3-9B3F-60226AB0F02A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
