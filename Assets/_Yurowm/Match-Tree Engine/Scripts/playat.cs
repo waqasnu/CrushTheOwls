@@ -7,7 +7,7 @@ public class playat : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		InvokeRepeating("LaunchProjectile", 10,8);
+		InvokeRepeating("LaunchProjectile", 120,120);
 	
 	}
 	
